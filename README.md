@@ -1,5 +1,5 @@
 # simple-graphene-relay
-
+# django
 pipenv shell
 
 pipenv install django
